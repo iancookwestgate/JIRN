@@ -10,6 +10,11 @@ A website created with HTML, CSS, Bootstrap, JavaScript, jQuery and the Google M
 
 The website also offers a sign-up system that, while currently non-functioning, would in the future permit the user to join a JIRN database, the social side of the business, and to encourage repeated usage. This information is displayed and interacted with on the profile page, which shows a photo, biographical information, and lets them review websites through the "Food Diary." The Food Diary is where the user can submit where they have eaten and their thoughts on the food/experience, which is saved on their profile in cards below.
 
+## Pictures
+
+![Home Page](/imgs/JIRN.PNG)
+![Mapping Page](/imgs/JIRN-2.PNG)
+
 ### Specs
 
 Spec: When the user clicks the magnifying glass icon on the Home page, the icon transforms into a search field.
